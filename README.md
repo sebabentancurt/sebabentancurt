@@ -40,9 +40,7 @@
 
 ---
 
-### 📈 Statistics & Impact
-
-### 📊 Productivity & Consistency
+### 📈 Statistics & Productivity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebabentancurt&theme=tokyonight" alt="Sebastian's Streak Stats" />
 </p>

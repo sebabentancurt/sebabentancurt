@@ -40,9 +40,7 @@
 
 ---
 
-### 📈 Estadísticas e Impacto
-
-### 📊 Productividad y Consistencia
+### 📈 Estadísticas y Productividad
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebabentancurt&theme=tokyonight" alt="Estadísticas de Racha de Sebastian" />
 </p>
