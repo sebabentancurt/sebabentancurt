@@ -28,11 +28,26 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 Professional Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebabentancurt&show_icons=true&theme=tokyonight" alt="Sebastian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebabentancurt&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Experience-13+%20Years-blue?style=for-the-badge&logo=workplace&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roles-Tech%20Lead%20|%20PM%20|%20Architect-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Education-Systems%20Analyst-green?style=for-the-badge&logo=education&logoColor=white" />
+</p>
+
+- 🏗️ **Architected & Scaled**: Led high-traffic platforms like VPag Wallet (Eightroom).
+- ☁️ **Cloud Native**: Expert in AWS infrastructure optimization and DevOps automation.
+- 👥 **Leadership**: Managed agile teams (SCRUM) and mentored 20+ developers across different roles.
+
+---
+
+### 📈 GitHub Stats
+> *Note: Most of my professional work is done in private corporate repositories.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebabentancurt&show_icons=true&theme=tokyonight&count_private=true" alt="Sebastian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebabentancurt&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
 
 ---
