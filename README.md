@@ -43,8 +43,12 @@
 ### 📈 GitHub Stats
 > *Note: Most of my professional work is done in private corporate repositories.*
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sebabentancurt&show_icons=true&theme=tokyonight&count_private=true" alt="Sebastian's GitHub Stats" />
+</p>
+
+### 📅 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebabentancurt&theme=tokyonight" width="100%" alt="Sebastian's Activity Graph" />
 </p>
 
 #### 🛠️ Professional Expertise Breakdown
