@@ -46,9 +46,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sebabentancurt&show_icons=true&theme=tokyonight&count_private=true" alt="Sebastian's GitHub Stats" />
 </p>
 
-### 📅 Contribution Activity
+### 📊 Productivity & Consistency
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebabentancurt&theme=tokyonight" width="100%" alt="Sebastian's Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebabentancurt&theme=tokyonight" alt="Sebastian's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebabentancurt&theme=tokyonight" alt="Sebastian's Yearly Productivity" />
 </p>
 
 #### 🛠️ Professional Expertise Breakdown
