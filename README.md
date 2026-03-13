@@ -1,9 +1,11 @@
+[Español 🇪🇸](README.es.md)
+
 <table>
   <tr>
     <td>
       <h1>👋 Hello, I'm Sebastian Bentancurt!</h1>
-      <h3>🚀 Senior Software Engineer | IT Tech Lead | Backend Architect</h3>
-      <p>With over <b>13 years of experience</b> in the IT industry, I specialize in building robust, scalable architectures and leading high-performance technical teams. My journey spans from hands-on backend development to technical leadership and project management in major companies like <b>Mercado Libre</b> and <b>Antel</b>.</p>
+      <h3>🚀 Senior Software Engineer | Systems Analyst | Tech Lead</h3>
+      <p>With over <b>13 years of experience</b> in the IT industry, I specialize in building robust, scalable architectures and leading high-performance technical teams. I am a <b>Systems Analyst</b> and am currently in my 4th year of a Degree in Systems at Universidad ORT Uruguay.</p>
     </td>
     <td width="25%">
       <img src="assets/profile.jpg" width="100%" style="border-radius: 50%;" />
@@ -46,7 +48,8 @@
 ---
 
 ### 🌱 I'm currently...
-- 🎓 Pursuing a **Degree in Systems** at Universidad ORT Uruguay.
+- 🎓 **Systems Analyst** (Universidad ORT Uruguay).
+- 📚 Pursuing my **Degree in Systems** (4th year).
 - 🔭 Working on advanced backend architectures and cloud optimizations.
 - ⚡ **Fun Fact**: I'm a nature lover at heart and often think about being a park ranger (guardabosque) in an alternative life!
 
