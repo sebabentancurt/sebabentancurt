@@ -13,8 +13,6 @@
   </tr>
 </table>
 
-![Banner](assets/banner.png)
-
 ---
 
 ### 🛠️ Tech Stack & Expertise
@@ -47,8 +45,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sebabentancurt&show_icons=true&theme=tokyonight&count_private=true" alt="Sebastian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebabentancurt&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
+
+#### 🛠️ Professional Expertise Breakdown
+- 🐘 **PHP / Laravel**: 10+ years (Core expertise, High-scale banking & wallet platforms @ Eightroom & Antel)
+- ☕ **Java / Spring Boot**: 4+ years (Enterprise systems @ Mercado Libre)
+- ☁️ **AWS / Cloud**: 5+ years (Architecting, Infrastructure as Code, DevOps)
+- 🛡️ **Systems Analysis**: 4 years (Degree-level professional focus)
 
 ---
 

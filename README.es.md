@@ -13,8 +13,6 @@
   </tr>
 </table>
 
-![Banner](assets/banner.png)
-
 ---
 
 ### 🛠️ Stack Tecnológico y Experiencia
@@ -47,8 +45,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sebabentancurt&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Sebastian" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebabentancurt&layout=compact&theme=tokyonight&count_private=true" alt="Lenguajes principales" />
 </p>
+
+#### 🛠️ Desglose de Expertise Profesional
+- 🐘 **PHP / Laravel**: 10+ años (Expertise principal, plataformas bancarias y wallets @ Eightroom y Antel)
+- ☕ **Java / Spring Boot**: 4+ años (Sistemas enterprise @ Mercado Libre)
+- ☁️ **AWS / Cloud**: 5+ años (Arquitectura, Infraestructura como Código, DevOps)
+- 🛡️ **Análisis de Sistemas**: 4 años (Enfoque profesional a nivel de licenciatura)
 
 ---
 
