@@ -40,11 +40,7 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
-> *Nota: La mayor parte de mi trabajo profesional se encuentra en repositorios privados corporativos.*
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sebabentancurt&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Sebastian" />
-</p>
+### 📈 Estadísticas e Impacto
 
 ### 📊 Productividad y Consistencia
 <p align="center">

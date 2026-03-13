@@ -40,11 +40,7 @@
 
 ---
 
-### 📈 GitHub Stats
-> *Note: Most of my professional work is done in private corporate repositories.*
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sebabentancurt&show_icons=true&theme=tokyonight&count_private=true" alt="Sebastian's GitHub Stats" />
-</p>
+### 📈 Statistics & Impact
 
 ### 📊 Productivity & Consistency
 <p align="center">
